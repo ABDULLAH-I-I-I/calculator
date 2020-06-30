@@ -1,0 +1,38 @@
+body{
+    background-color: peru;
+}
+
+.main{
+    
+    border: 1px solid black;
+    width: 200px;
+    margin: 35px 75px 25px 325px;
+    background-color: lightskyblue;
+}
+.result{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 97%;
+    height: 50px;
+    background-color: honeydew;
+    border: hidden;
+    
+    margin-left: 1px;
+}
+.clearBtn{
+    width: 99%;
+    background-color: lavenderblush ;
+    margin: 1px;
+}
+.btn{
+    width: 45px;
+    background-color:lavenderblush ;
+    margin: 1px;
+    
+}
+.halfBtn{
+    background-color: lavenderblush;
+    width: 45px;
+    margin: 1px;
+    
+}
